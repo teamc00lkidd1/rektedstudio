@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/lolpippiou/rektedstudio/main/ui-engine.lua"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/teamc00lkidd1/rektedstudio/main/ui-engine.lua"))()
 
 local name = "RektedStudio"
 
